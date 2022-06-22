@@ -194,7 +194,7 @@ The base RESTful API controller is `HungNG_CI_Base_REST`, the following table is
 
 ### Build Methods:
 
-You could make a resource controller by referring the [Template of Resource Controller](https://github.com/yidas/codeigniter-rest/blob/dev/examples/RestController.php).
+You could make a resource controller by referring the [Template of Resource Controller](https://github.com/nguyenanhung/codeigniter-framework-sample/blob/main/codeigniter-rest/examples/RestController.php).
 
 The following RESTful controller methods could be add by your need. which each method refers to the action of Resource Controller table by default, and injects required arguments:
 

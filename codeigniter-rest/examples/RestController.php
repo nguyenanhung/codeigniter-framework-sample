@@ -1,6 +1,6 @@
 <?php
 
-class RestController extends \yidas\rest\Controller
+class RestController extends HungNG_CI_Base_REST
 {
     /**
      * Action: Index
