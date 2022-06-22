@@ -214,7 +214,7 @@ $this->load->model('post_model', 'PostModel');
 $post = $this->PostModel->findOne(123);
 ```
 
-[My_model Example with Document](https://github.com/yidas/codeigniter-model/tree/master/example)
+[My_model Example with Document](https://github.com/nguyenanhung/codeigniter-framework-sample/tree/main/codeigniter-orm-model/example)
 
 ---
 
