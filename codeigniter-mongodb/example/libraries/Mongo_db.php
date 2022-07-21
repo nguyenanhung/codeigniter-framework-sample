@@ -8,7 +8,7 @@
  * Time: 15:58
  */
 
-class Mongo_db extends HungNG_CI_Base_MongoDB_Lib
+class Mongo_db extends HungNG_CI_Base_Lib_MongoDB
 {
     public function __construct($param)
     {
